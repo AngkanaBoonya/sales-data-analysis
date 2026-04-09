@@ -1,4 +1,4 @@
-readme = """# Sales Data Analysis
+
 
 ## Overview
 This project analyzes Superstore sales data to identify key business insights on products, regions, customer segments, and sales trends.
