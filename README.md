@@ -1,4 +1,4 @@
-readme = """# Sales Data Analysis
+
 
 ## Overview
 This project analyzes Superstore sales data to identify key business insights on products, regions, customer segments, and sales trends.
@@ -24,3 +24,13 @@ This project analyzes Superstore sales data to identify key business insights on
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Project Structure
+sales-data-analysis/
+├── dashboard/
+│   ├── dashboard_screenshot.png
+│   └── sales_dashboard.pbix
+├── data/
+│   ├── Superstore.csv
+│   └── superstore_cleaned.csv
+├── notebooks/
+│   └── 01_eda_cleaning.ipynb
+└── README.md
