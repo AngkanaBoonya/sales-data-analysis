@@ -24,6 +24,7 @@ This project analyzes Superstore sales data to identify key business insights on
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Project Structure
+```
 sales-data-analysis/
 ├── dashboard/
 │   ├── dashboard_screenshot.png
@@ -34,5 +35,5 @@ sales-data-analysis/
 ├── notebooks/
 │   └── 01_eda_cleaning.ipynb
 └── README.md
-=======
+```
 
